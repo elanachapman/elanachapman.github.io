@@ -1,5 +1,7 @@
 ---
 layout: post
 title: this is my second post
-permalink:/post_two/
+permalink: /post_two/
 ---
+
+#{{page.title}}
