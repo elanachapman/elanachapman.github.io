@@ -5,7 +5,7 @@ permalink: /about/
 laughtertype: hehehehehehehe
 ---
 
-# {{page, laughtertype}}
+# {{page.laughtertype}}
 
 I'm a curler by weekend
 
