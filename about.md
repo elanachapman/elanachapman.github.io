@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-Laughter_type: hehehehehehehe
+laughtertype: hehehehehehehe
 ---
 
-{{page, Laughter_type}}
+# {{page, laughtertype}}
 
 I'm a curler by weekend
 
